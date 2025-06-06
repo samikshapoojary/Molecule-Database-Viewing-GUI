@@ -39,3 +39,12 @@ These descriptors help in assessing the drug-likeness and physicochemical proper
 * **Export Functionality:** Filtered or selected data can be exported as CSV files for downstream analysis or sharing.
 * **External Links:** Direct integration with external databases such as PubChem allows users to quickly access additional compound information or references by redirecting to PubChem webpages based on compound IDs.
 
+Usage
+Make sure Python and required libraries (e.g., RDKit, Tkinter, SQLite3) are installed.
+
+Place your SDF file at the location specified in the script variable.
+
+Run the script directly. 
+
+The GUI will launch automatically with all compounds loaded after creating the database first.
+
